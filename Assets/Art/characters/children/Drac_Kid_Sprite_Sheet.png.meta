@@ -1,0 +1,469 @@
+fileFormatVersion: 2
+guid: 993a607ca9fa25046952b07ac3b5adfa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6335194851577053903
+    second: Drac_Kid_Sprite_Sheet_0
+  - first:
+      213: -4771739413242096952
+    second: Drac_Kid_Sprite_Sheet_1
+  - first:
+      213: 8597575670453046896
+    second: Drac_Kid_Sprite_Sheet_2
+  - first:
+      213: -275161704078849744
+    second: Drac_Kid_Sprite_Sheet_3
+  - first:
+      213: -8100501863825661665
+    second: Drac_Kid_Sprite_Sheet_4
+  - first:
+      213: -1220499425124273382
+    second: Drac_Kid_Sprite_Sheet_5
+  - first:
+      213: 8600292813438242879
+    second: Drac_Kid_Sprite_Sheet_6
+  - first:
+      213: 7194580052778604451
+    second: Drac_Kid_Sprite_Sheet_7
+  - first:
+      213: 1213651160086211729
+    second: Drac_Kid_Sprite_Sheet_8
+  - first:
+      213: -5890590626804026895
+    second: Drac_Kid_Sprite_Sheet_9
+  - first:
+      213: 3593419051066336266
+    second: Drac_Kid_Sprite_Sheet_10
+  - first:
+      213: -6913237376141597763
+    second: Drac_Kid_Sprite_Sheet_11
+  - first:
+      213: 3696126624647621129
+    second: Drac_Kid_Sprite_Sheet_12
+  - first:
+      213: -5333220955088120918
+    second: Drac_Kid_Sprite_Sheet_0
+  - first:
+      213: -4480102669110729193
+    second: Drac_Kid_Sprite_Sheet_1
+  - first:
+      213: 410749914952085970
+    second: Drac_Kid_Sprite_Sheet_2
+  - first:
+      213: 2796041484812973127
+    second: Drac_Kid_Sprite_Sheet_3
+  - first:
+      213: 4594461315340932904
+    second: Drac_Kid_Sprite_Sheet_4
+  - first:
+      213: 2641970761188102520
+    second: Drac_Kid_Sprite_Sheet_5
+  - first:
+      213: -6985934128449902748
+    second: Drac_Kid_Sprite_Sheet_6
+  - first:
+      213: 7705109914295000918
+    second: Drac_Kid_Sprite_Sheet_7
+  - first:
+      213: -5630182910941811032
+    second: Drac_Kid_Sprite_Sheet_8
+  - first:
+      213: 6052266783356570219
+    second: Drac_Kid_Sprite_Sheet_9
+  - first:
+      213: 1301696266645086300
+    second: Drac_Kid_Sprite_Sheet_10
+  - first:
+      213: 5871501523781629352
+    second: Drac_Kid_Sprite_Sheet_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Drac_Kid_Sprite_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1500
+        width: 399
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa39d474cc79cf5b0800000000000000
+      internalID: -5333220955088120918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drac_Kid_Sprite_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1506
+        width: 341
+        height: 253
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716206aeb5a73d1c0800000000000000
+      internalID: -4480102669110729193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drac_Kid_Sprite_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1500
+        width: 414
+        height: 274
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1bd341fd643b500800000000000000
+      internalID: 410749914952085970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drac_Kid_Sprite_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1003
+        width: 399
+        height: 295
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74478879ae88dc620800000000000000
+      internalID: 2796041484812973127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drac_Kid_Sprite_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1006
+        width: 340
+        height: 253
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8279b2b493ec2cf30800000000000000
+      internalID: 4594461315340932904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drac_Kid_Sprite_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1003
+        width: 414
+        height: 274
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871d597d86a2aa420800000000000000
+      internalID: 2641970761188102520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drac_Kid_Sprite_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 522
+        width: 226
+        height: 281
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46727795ce9fc0f90800000000000000
+      internalID: -6985934128449902748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drac_Kid_Sprite_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 505
+        width: 198
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fd4e4c4ac0eea60800000000000000
+      internalID: 7705109914295000918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drac_Kid_Sprite_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 519
+        width: 253
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aea6d4f8729dd1b0800000000000000
+      internalID: -5630182910941811032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drac_Kid_Sprite_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 8
+        width: 341
+        height: 271
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a4ddbb298fdf350800000000000000
+      internalID: 6052266783356570219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drac_Kid_Sprite_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 4
+        width: 291
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5025da9bdd801210800000000000000
+      internalID: 1301696266645086300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drac_Kid_Sprite_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 9
+        width: 341
+        height: 271
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a53b2ff683cb7150800000000000000
+      internalID: 5871501523781629352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b320b71d210772f4d863dd01f727764c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
